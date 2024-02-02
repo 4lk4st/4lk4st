@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on digitalization of large industrial company.
-- 🌱 I’m currently learning other than Django Python web frameworks, such as Flask and FastAPI. Interested in non-relations databases. In future I planed to study ML.
+- 🌱 I’m currently learning other than Django Python web frameworks, such as FastAPI. Interested in non-relations databases. In future I planed to study ML.
 - 👯 I’m looking to collaborate on web projects, maybe with engineering background (13 years of engineering experience 🤩).
 - 📫 How to reach me: https://t.me/vsevolod_z.
 - ⚡ Fun fact: I love keyboards without symbols on the keys. The best protection against jokers at work 😄.
